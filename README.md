@@ -1,2 +1,2 @@
 # laravel
-new myapp
+new myapp new modify 2
