@@ -8,7 +8,7 @@ Class Player{
 
 		die('xxxxx');
 
-		echo 'tran tra';
+		echo 'tran tra111';
 
 	}
 }
