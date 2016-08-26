@@ -4,7 +4,7 @@ Class Player{
 		echo 'doantv';
 	}
 	public function index(){
-		
+		die('xxxxx');
 	}
 }
 
