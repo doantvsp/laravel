@@ -1,7 +1,7 @@
 <?php
 Class Player{
 	public function __contruct(){
-		echo 'doantv';
+		echo 'doantv111';
 	}
 	public function index(){
 
