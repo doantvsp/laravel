@@ -1,4 +1,5 @@
 <?php
+
 Class Player{
 	public function __contruct(){
 		echo 'doantv111';
@@ -11,5 +12,11 @@ Class Player{
 
 	}
 }
+
+die();
+echo 'doantv';
+echo 'tran';
+echo 'tra';
+echo 'tran van doan';
 
 ?>
