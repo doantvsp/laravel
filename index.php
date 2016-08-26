@@ -6,7 +6,8 @@ Class Player{
 	}
 	public function index(){
 
-		die('xxxxx');
+		die('xxxxxcccccccccc');
+		echo 'cc';
 
 		echo 'tran tra111';
 
