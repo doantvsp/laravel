@@ -1,4 +1,5 @@
 <?php
+die('day la folder GCL);
 
 Class Player{
 	public function __contruct(){
