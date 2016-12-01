@@ -11,4 +11,11 @@ public function i_total($a = null,$b =  null){
 	}
 	return $a+$b;
 }
+Class Test {
+	public function index(){
+		for($i = 1;$i<10;$i++){
+			echo $i;
+		}
+	}
+}
 ?>
