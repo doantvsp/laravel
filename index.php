@@ -11,7 +11,4 @@ public function i_total($a = null,$b =  null){
 	}
 	return $a+$b;
 }
-public function sz_getName(){
-	return 'doantv';
-}
 ?>
