@@ -17,5 +17,8 @@ Class Test {
 			echo 'da merge xong';
 		}
 	}
+	public function new(){
+		echo 'v1.1';
+	}
 }
 ?>
