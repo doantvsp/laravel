@@ -5,7 +5,8 @@ Class A {
 	}
 	public function add (){
 		echo 'today is saturday';
-		echo 'ccccccccccccccccccccccccccccccccccccc;;
+		echo 'ccccccccccccccccccccccccccccccccccccc;
+		die('ccccc);
 		return true;
 	}
 }
