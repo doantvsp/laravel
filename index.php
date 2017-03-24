@@ -4,6 +4,7 @@ Class A {
 		echo 'new test git';
 	}
 	public function add (){
+		echo 'today is saturday';
 		return true;
 	}
 }
