@@ -5,6 +5,7 @@ Class A {
 	}
 	public function add (){
 		echo 'today is saturday';
+		echo 'ccccccccccccccccccccccccccccccccccccc;;
 		return true;
 	}
 }
