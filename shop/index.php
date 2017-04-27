@@ -20,5 +20,7 @@ echo 'doantv';
 echo 'tran';
 echo 'tra';
 echo 'tran van doan';
+ehco 'today í monday"
+
 
 ?>
